@@ -1,10 +1,10 @@
-# Contributing to Eliza
+# Contributing to CubeForge Eliza Implmentation
 
-First off, thank you for considering contributing to Eliza! We welcome contributions from everyone, regardless of experience level.
+First off, thank you for considering contributing to CubeForge Eliza Implmentation! We welcome contributions from everyone, regardless of experience level.
 
 ## Contribution License Agreement
 
-By contributing to Eliza, you agree that your contributions will be licensed under the MIT License. This means:
+By contributing to CubeForge Eliza Implmentation, you agree that your contributions will be licensed under the MIT License. This means:
 
 1. You grant us (and everyone else) a perpetual, worldwide, non-exclusive, royalty-free license to use your contributions.
 2. Your contributions are and will be available as Free and Open Source Software (FOSS).
