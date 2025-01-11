@@ -10,7 +10,7 @@
   },
   "nodemonConfig": {
     "watch": [
-      "src",
+      "src", 
       "../core/dist"
     ],
     "ext": "ts,json",
