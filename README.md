@@ -20,8 +20,8 @@ This application was built with Node v23; using this version is recommended.
 To install dependencies, any package manager can be used. We recommend [pnpm](https://pnpm.io/installation).
 
 ```bash
-git clone https://github.com/stealthstudios/stealth-sdk.git
-cd stealth-sdk
+git clone https://github.com/CubeCraftGit/cubeforge.git
+cd cubeforge
 pnpm install
 ```
 
