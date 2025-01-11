@@ -1,4 +1,6 @@
-# Changelog
+# Changelog CubeForge Eliza ai16z Implementation
+
+
 
 ## [v0.1.6-alpha.4](https://github.com/ai16z/eliza/tree/v0.1.6-alpha.4) (2024-12-17)
 
