@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/c54971cd-4927-47fe-9044-4afad06ffba6)
 
-## Features
+## Features 
 
 - Fully customizable agents
 - Support for multiple AI providers, including Anthropic, DeepSeek, and OpenAI
