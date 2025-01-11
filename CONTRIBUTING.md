@@ -1,4 +1,4 @@
-# Contributing to CubeForge Eliza Implmentation
+# Contributing to CubeForge Eliza Implmentation:
 
 First off, thank you for considering contributing to CubeForge Eliza Implmentation! We welcome contributions from everyone, regardless of experience level.
 
