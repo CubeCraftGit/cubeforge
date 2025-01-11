@@ -1,4 +1,4 @@
-# Changelog CubeForge Eliza ai16z Implementation
+# Changelog CubeForge Eliza ai16z Implementation:
 
 
 ## [v0.1.7-alpha.1] (1-11-25)
