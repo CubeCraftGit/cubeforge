@@ -2,6 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/c54971cd-4927-47fe-9044-4afad06ffba6)
 
+All CubeForge-related announcements can be found at https://x.com/CubeForgeAI
+
 ## Features 
 
 - Fully customizable agents
