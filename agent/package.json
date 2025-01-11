@@ -2,7 +2,7 @@
   "name": "@ai16z/agent",
   "version": "0.1.6",
   "main": "src/index.ts",
-  "type": "module",
+  "type": "module", 
   "scripts": {
     "start": "node --loader ts-node/esm src/index.ts",
     "dev": "node --loader ts-node/esm src/index.ts",
