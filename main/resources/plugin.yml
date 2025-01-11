@@ -1,0 +1,7 @@
+name: LuckChat
+version: "${project.version}"
+api: ["1.0.0"]
+author: Zen
+main: zen.luckchat.LuckChatPlugin
+Depend: ["LuckPerms"]
+Softdepend: ["PlaceholderAPI", "Factions"]
